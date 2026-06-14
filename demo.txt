@@ -1,3 +1,4 @@
 Hello Git 
 Welcome to Git 
 Login Feature 
+Logout Feature 
