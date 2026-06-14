@@ -2,7 +2,11 @@ Hello Git
 Welcome to Git 
 Login Feature 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Logout Feature 
 =======
 Payment Feature 
 >>>>>>> feature-payment
+=======
+>>>>>>> parent of 8def11f (Added logout feature)
+New Feature 
