@@ -1,4 +1,8 @@
 Hello Git 
 Welcome to Git 
 Login Feature 
+<<<<<<< HEAD
 Logout Feature 
+=======
+Payment Feature 
+>>>>>>> feature-payment
